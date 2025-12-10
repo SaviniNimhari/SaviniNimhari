@@ -61,15 +61,15 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savnimhari&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117"
+  <img src="https://github-readme-stats.vercel.app/api?username=SaviniNimhari&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117"
   height="180em" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savnimhari&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviniNimhari&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117"
   height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savnimhari&theme=tokyonight&hide_border=true&stroke=0CE6F2&background=0D1117&ring=0CE6F2&fire=fe8019&currStreakLabel=0CE6F2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaviniNimhari&theme=tokyonight&hide_border=true&stroke=0CE6F2&background=0D1117&ring=0CE6F2&fire=fe8019&currStreakLabel=0CE6F2" />
 </div>
 
 <br>
@@ -77,7 +77,7 @@
 <!-- Connect -->
 <h2 align="center">🌐 Connect with Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/savini-nimhari-b45548308" target="_blank">
+  <a href="https://linkedin.com/in/savini-nimhari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:savininimhari@gmail.com" target="_blank">
