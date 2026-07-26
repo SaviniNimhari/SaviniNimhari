@@ -61,11 +61,8 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaviniNimhari&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117"
-  height="180em" />
+  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviniNimhari&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117"
-  height="180em" />
 </div>
 
 <div align="center">
