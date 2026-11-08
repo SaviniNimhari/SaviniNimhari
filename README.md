@@ -114,27 +114,35 @@ yaml
 
 ### 📊 GitHub Analytics & Activity • 統計データ
 
+<!-- GitHub Trophies (High-Uptime Mirror) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaviniNimhari&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=SaviniNimhari&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br>
 
+<!-- Reliable Summary Cards: Profile Overview, Top Languages & Stats (Radical/Sakura Theme) -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SaviniNimhari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=160F29&title_color=FF7EB3&icon_color=FFB7C5&text_color=F8F8F2" alt="Savini's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviniNimhari&layout=compact&langs_count=8&hide_border=true&bg_color=160F29&title_color=FF7EB3&text_color=F8F8F2" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaviniNimhari&theme=radical" alt="Savini's GitHub Stats" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaviniNimhari&theme=radical" alt="Top Languages" />
 </div>
 
+<!-- Your Working Sakura Streak Card -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaviniNimhari&hide_border=true&background=160F29&stroke=FF7EB3&ring=FF7EB3&fire=FFB7C5&currStreakLabel=FF7EB3&sideLabels=FFB7C5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D8B4E2" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaviniNimhari&bg_color=160F29&color=FFB7C5&line=FF7EB3&point=FFFFFF&area=true&area_color=FF7EB3&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
+
 
 <br>
-
+<!-- Animated Contribution Snake (Worm Going Around) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb7c5,50:ff7eb3,100:2b1055&height=3" width="100%" />
 </p>
