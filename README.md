@@ -34,7 +34,7 @@
 
 I’m a **Software Engineering Undergraduate (BSc Hons)** at **Lanka Nippon BizTech Institute (LNBTI)** with hands-on experience engineering full-stack web, mobile, and desktop applications. Alongside my technical journey, I bring **4+ years of client-facing leadership** in insurance advisory and digital marketing, and I am actively advancing my **Japanese language skills** to thrive in both Sri Lankan and Japan-based tech ecosystems.
 
-- 🎓 **Education:** BSc (Hons) in Software Engineering @ LNBTI *(GPA: 3.2/4.0)*
+- 🎓 **Education:** BSc (Hons) in Software Engineering @ LNBTI 
 - 🎨 **Postgraduate & Diplomas:** PGDE in Digital Marketing & Diploma in Graphic Design *(PSB University)*
 - 💼 **Current Role:** Senior Insurance Advisor @ **LOLC Life Assurance Ltd** *(Former Advisor @ Union Assurance PLC)*
 - 🔭 **Currently Working On:** **Shanghai Dragon** — QR-based Restaurant Management System *(React, Node.js, PostgreSQL)*
@@ -93,32 +93,6 @@ I’m a **Software Engineering Undergraduate (BSc Hons)** at **Lanka Nippon BizT
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
-
----
-
-### 🚀 Featured Academic & Full-Stack Projects
-
-| Project | Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| 🏮 **Shanghai Dragon Restaurant System** *(Ongoing)* | `React` `Node.js` `Express` `PostgreSQL` `Figma` | QR-based customer dining & ordering workflow engineered for **6 distinct staff roles**, supporting live billing, daily deals, inventory control, and analytics reports. |
-| 🎪 **EventNest — Multi-Vendor Marketplace** | `React 19` `Tailwind` `Node.js` `PostgreSQL` `Prisma` `JWT` | Led architecture & schema design for a 6-role event platform. Built escrow payments with bank-slip verification and seller inventory tracking (**37/37 automated tests passed**). |
-| 🏥 **Hospital Management & E-Channelling** | `React` `Node.js` `Express` `PostgreSQL` `JWT` `bcrypt` | Full-stack healthcare portal featuring role-based access (`Admin`, `Doctor`, `Patient`), specialization search, real-time appointment booking, and SQL aggregate dashboards. |
-| 📱 **Smart Life Academy (Hybrid Mobile App)** | `Kotlin` `Jetpack Compose` `Flutter` `Dart` `Supabase` | Hybrid mobile LMS combining native Android (Kotlin) with Flutter Add-to-App modules for course, lesson, and assignment management with Supabase auth. |
-| 🎓 **SL Academy — Institute Management** | `Laravel 12` `PHP` `MySQL` `Blade` `Tailwind CSS` | Multi-role institute portal utilizing **Spatie Laravel Permissions** for 4 user roles, email-verified auth, and comprehensive student/teacher administration. |
-| 💰 **FinTracker — Personal Finance Desktop App** | `C#` `WinForms` `ADO.NET` `MySQL` | Desktop budget tracker featuring secure authentication, transaction CRUD, automated overspend warnings, and CSV/TXT financial report exports. |
-
----
-
-### 🏆 Certifications & Achievements
-
-- 🤖 **AI/ML Engineer (Stages 1, 2 & 3)** — *SLIIT (Sri Lanka Institute of Information Technology)*
-- 🧪 **Introduction to Software Quality Assurance & Full-Stack Python/Web Track** — *University of Moratuwa*
-- 🍃 **MongoDB Node.js Developer Path & Aggregation Mastery** — *MongoDB University*
-- ☁️ **Microsoft Azure Essentials Professional Certificate** — *Microsoft & LinkedIn*
-- 📱 **Android Studio, Angular, Java Intermediate, C & Prompt Engineering** — *Simplilearn & Sololearn*
-- 📋 **Project Management: Creating the WBS** — *Coursera*
-
----
 
 ### 📊 GitHub Analytics & Activity
 
