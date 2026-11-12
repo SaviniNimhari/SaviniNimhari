@@ -32,25 +32,6 @@
 
 I’m a **Software Engineering Undergraduate (BSc Hons)** at **Lanka Nippon BizTech Institute (LNBTI)** with hands-on experience engineering full-stack web, mobile, and desktop applications[cite: 1]. Alongside my technical journey, I bring **4+ years of client-facing leadership** in insurance advisory and digital marketing, and I am actively advancing my **Japanese language skills** to thrive in both Sri Lankan and Japan-based tech ecosystems[cite: 1].
 
-- 🎓 **Education:** BSc (Hons) in Software Engineering @ LNBTI[cite: 1]
-- 🎨 **Postgraduate & Diplomas:** PGDE in Digital Marketing & Diploma in Graphic Design *(PSB University)*[cite: 1]
-- 💼 **Current Role:** Senior Insurance Advisor @ **LOLC Life Assurance Ltd** *(Former Advisor @ Union Assurance PLC)*[cite: 2]
-- 🔭 **Currently Working On:** **Shanghai Dragon** — QR-based Restaurant Management System *(React, Node.js, PostgreSQL)*[cite: 1]
-- 🌱 **Exploring:** AI/ML Engineering, Software Quality Assurance (SQA), Cloud Architecture (Azure), and Hybrid Mobile Apps[cite: 1, 2]
-- 🏮 **Languages:** English (Professional) | Sinhala (Native) | Japanese (Level 5 @ LNBTI, 18,800+ Duolingo XP) | French (Elementary)[cite: 2]
-- ⚡ **Leadership:** Treasurer @ LNBTI Media Club | Active Leo Club Member[cite: 2]
-
-<br clear="right"/>
-
-yaml
-🌸 Savini's_Sakura_Profile:
-  pronouns: "She / Her"
-  status: "GitHub PRO Developer 🌟"
-  university: "Lanka Nippon BizTech Institute (Japanese IT University) 🇱🇰 🇯🇵"
-  current_focus: ["Full-Stack Web & Mobile", "Japanese Language & Culture", "AI/ML & Cloud"]
-  motto: "継続は力なり (Continuity is strength / Consistency is power) 🌸"
-### ⛩️ Tech Stack & Tools • 技術スタック
-
 <div align="center">
 
   <!-- Visual Skill Icons Row -->
@@ -114,12 +95,6 @@ yaml
 
 ### 📊 GitHub Analytics & Activity • 統計データ
 
-<!-- GitHub Trophies (High-Uptime Mirror) -->
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=SaviniNimhari&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<br>
 
 <!-- Reliable Summary Cards: Profile Overview, Top Languages & Stats (Radical/Sakura Theme) -->
 <div align="center">
