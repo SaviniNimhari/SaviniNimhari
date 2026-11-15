@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:d86c9b,100:ffb7c5&height=220&section=header&text=%20Savini%20Nimhari%20&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=こんにちは!%20%7C%20Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 </div>
 
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF7EB3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Progress;🎐+Tech+%26+Design+Enthusiast;🌸+Software+Engineering+Undergraduate;⛩️+Learning+Japanese" alt="Typing SVG" />
 </h3>
